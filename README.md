@@ -1,14 +1,7 @@
-# calculadora
- 
+# Calculadora
+ Uma calculadora feita em HTML, CSS e JS, utilizando arrays, condicionais, funções e regex.
 
+ Nesse projeto eu manipulei classes e elementos no DOM: Deletando, Adicionando e Alterando, também fiz validações de input
 
- Uma calculadora feita com HTML, CSS e JS
-deletando
-arrays
-manipulando classes no node
-condicionais
-funções
-regex
-validaçpão de input
-criando elementos no node
-criando elementos
+### Link do site
+ - [Calculadora](https://rafaelottdev.github.io/calculadora/)
